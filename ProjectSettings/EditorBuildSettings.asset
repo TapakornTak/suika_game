@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/newgame.unity
+    guid: 244dc3f36e990a044a23c9646aec5f71
+  - enabled: 1
+    path: Assets/Scenes/suika.unity
+    guid: 43f4a9a7c63f5b648954b7d53f0a5b92
+  - enabled: 1
+    path: Assets/Scenes/run.unity
+    guid: e5797cd4ff03b194ebde0d08051d8a97
+  - enabled: 1
+    path: Assets/Scenes/Lose_game.unity
+    guid: 962880c97853a6b409d946d863ed46f0
+  - enabled: 1
+    path: Assets/Scenes/Win_game.unity
+    guid: e825c06a118a95648a80a568d6a59db0
+  m_configObjects: {}
